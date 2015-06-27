@@ -1,0 +1,62 @@
+h1 {
+  color: white;
+  text-align: center;
+  font-family: cursive;
+  font-size: 95px;
+  display: block;
+  margin: auto;
+}
+
+.background {
+  height: 250px;
+  width: 750px;
+  background-color: blue;
+  margin: auto;
+}
+
+p {
+  text-align: center;
+  color: silver;
+}
+
+.blogbox {
+  height: 530px;
+  width: 530px;
+  border-color: gray;
+  border-width: 1px;
+  border-style: ridge;
+  margin: auto;
+  margin-top: 40px;
+  border-radius: 100%;
+}
+
+.eye {
+  height: 80px;
+  width: 80px;
+  border-color: gray;
+  border-width: 1px;
+  border-style: ridge;
+  border-radius: 100%;
+  display: inline-block;
+  margin: auto;
+  margin-left: 120px;
+  margin-top: 55px;
+}
+
+.mouth {
+  height: 100px;
+  width: 350px;
+  border-color: gray;
+  border-width: 1px;
+  border-style: ridge;
+  border-radius: 100%;
+  display: inline-block;
+  margin: auto;
+  margin-left: 80px;
+  margin-top: 120px;
+}
+
+.says {
+   text-align: center;
+   color: red;
+}
